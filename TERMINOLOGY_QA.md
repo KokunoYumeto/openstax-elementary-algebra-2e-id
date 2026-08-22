@@ -1,7 +1,7 @@
 # Indonesian terminology QA
 
-Before extending the 13-module checkpoint, the translation terminology was
-compared against two directly inspected Indonesian mathematical sources:
+Before extending this checkpoint, the translation terminology was compared
+against two directly inspected Indonesian mathematical sources:
 
 1. Natanael Karjanto, “A theoretical study on a two-dimensional flap-type
    wavemaker,” [arXiv:2001.05854v1](https://arxiv.org/abs/2001.05854), whose
@@ -12,10 +12,11 @@ compared against two directly inspected Indonesian mathematical sources:
    `978-602-244-883-9`, used as the learner-facing school-algebra control.
 
 The evidence confirms `linear`, `variabel`, `ruas`, `penyelesaian`,
-`koefisien`, `konstanta`, and `suku`. It supports one focused normalization
-for subsequent work: prefer `bentuk aljabar` for “algebraic expression” while
-retaining generic `ekspresi matematika` and keeping `persamaan` distinct.
+`koefisien`, `konstanta`, and `suku`. It supports the normalization
+`bentuk aljabar` for “algebraic expression” while retaining generic `ekspresi
+matematika` and keeping `persamaan` distinct.
 
-This note records terminology evidence only. No source wording was copied
-into the translation, and all source-author and contributor credits remain
-with their respective works.
+This note records terminology evidence only. No source wording was copied into
+the translation, and all source-author and contributor credits remain with
+their respective works.
+

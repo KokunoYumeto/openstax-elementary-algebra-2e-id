@@ -23,12 +23,13 @@ are expressly outside it.
 
 ## Current edition boundary
 
-`EA2-B0013` contains 13 admitted modules out of 82. It is an incomplete book
-checkpoint. The Indonesian reader, CNXML source package, modular backend,
-manifests, and checksums in release `v0.2.0-wip` all bind to that same boundary.
+`EA2-B0015` contains 15 admitted modules out of 82 and a 447-page partial
+reader. Sixty-seven modules remain. It is an incomplete-book checkpoint. The
+Indonesian reader, CNXML source package, modular backend, manifests, and
+checksums in release `v0.3.0-wip` all bind to that same boundary.
 
-The durable archive lineage is Zenodo concept DOI
-[`10.5281/zenodo.22059767`](https://doi.org/10.5281/zenodo.22059767).
+- Version DOI: [`10.5281/zenodo.22062694`](https://doi.org/10.5281/zenodo.22062694)
+- Durable concept lineage: [`10.5281/zenodo.22059767`](https://doi.org/10.5281/zenodo.22059767)
 
 ## Rights
 
@@ -38,3 +39,4 @@ indication, noncommercial use, ShareAlike, and non-endorsement requirements
 apply. Some artwork carries component-specific credits or permission limits;
 the book-level license must not be used to erase them. See `LICENSE` for the
 complete CC BY-NC-SA 4.0 legal code.
+

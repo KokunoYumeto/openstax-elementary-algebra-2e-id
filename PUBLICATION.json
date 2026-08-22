@@ -4,10 +4,14 @@
   "book": "OpenStax Elementary Algebra 2e",
   "language": "id-ID",
   "collection_id": "col31130",
-  "boundary": "EA2-B0013",
-  "admitted_module_count": 13,
+  "boundary": "EA2-B0015",
+  "admitted_module_count": 15,
   "total_module_count": 82,
+  "remaining_module_count": 67,
+  "reader_page_count": 447,
   "status": "work_in_progress_incomplete_book",
   "license": "CC BY-NC-SA 4.0, subject to component-specific credits and restrictions",
+  "model_provenance": "OpenAI Codex gpt-5.6-sol, Ultra, acting at the user's instruction",
+  "zenodo_version_doi": "10.5281/zenodo.22062694",
   "zenodo_concept_doi": "10.5281/zenodo.22059767"
 }

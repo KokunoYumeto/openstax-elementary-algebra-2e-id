@@ -2,14 +2,14 @@
 
 Repositori ini memuat **rilis kerja yang belum lengkap** untuk terjemahan
 OpenStax *Elementary Algebra 2e* ke Bahasa Indonesia. Checkpoint
-`EA2-B0013` (`0.2.0-wip`) baru mencakup **13 dari 82 modul** dalam urutan
-resmi. Jangan menganggapnya sebagai terjemahan buku lengkap.
+`EA2-B0015` (`0.3.0-wip`) mencakup **15 dari 82 modul** dalam urutan resmi;
+67 modul belum masuk. Jangan menganggapnya sebagai terjemahan buku lengkap.
 
-PDF pembaca adalah aset pertama pada rilis GitHub. Paket sumber mempertahankan
-struktur CNXML; paket backend menyediakan rekaman modular netral-lokal yang
-dimaksudkan untuk digunakan kembali oleh edisi bahasa lain.
+PDF pembaca 447 halaman adalah aset pertama pada rilis GitHub. Paket sumber
+mempertahankan struktur CNXML, sedangkan paket backend menyediakan rekaman
+modular netral-lokal yang dapat digunakan kembali oleh edisi bahasa lain.
 
-- Versi arsip ini: [10.5281/zenodo.22061603](https://doi.org/10.5281/zenodo.22061603)
+- Versi arsip ini: [10.5281/zenodo.22062694](https://doi.org/10.5281/zenodo.22062694)
 - Konsep Zenodo dan seluruh riwayat versi:
   [10.5281/zenodo.22059767](https://doi.org/10.5281/zenodo.22059767)
 - Sumber hulu: [openstax/osbooks-prealgebra-bundle](https://github.com/openstax/osbooks-prealgebra-bundle),
@@ -26,4 +26,5 @@ Materi buku dan adaptasinya dilisensikan dengan
 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/),
 dengan tunduk pada kredit dan pembatasan khusus komponen. Teks legal lengkap
 terdapat dalam `LICENSE`; rincian otoritas sumber terdapat dalam
-`SOURCE_AUTHORITY.md`.
+`SOURCE_AUTHORITY.md`. Provenans alat AI dicatat dalam `MODEL_PROVENANCE.md`.
+

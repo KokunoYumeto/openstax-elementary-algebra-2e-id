@@ -1,0 +1,13 @@
+{
+  "schema": "ea2.github-repository-marker.v1",
+  "repository": "KokunoYumeto/openstax-elementary-algebra-2e-id",
+  "book": "OpenStax Elementary Algebra 2e",
+  "language": "id-ID",
+  "collection_id": "col31130",
+  "boundary": "EA2-B0013",
+  "admitted_module_count": 13,
+  "total_module_count": 82,
+  "status": "work_in_progress_incomplete_book",
+  "license": "CC BY-NC-SA 4.0, subject to component-specific credits and restrictions",
+  "zenodo_concept_doi": "10.5281/zenodo.22059767"
+}

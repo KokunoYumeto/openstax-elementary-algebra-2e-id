@@ -8,4 +8,3 @@ an AI-tool provenance statement, not an authorship or endorsement claim.
 OpenStax, book-author, source-component, and other human-contributor credits
 remain controlling and are preserved in `LICENSE`, `SOURCE_AUTHORITY.md`, the
 source metadata, and the edition itself.
-

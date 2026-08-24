@@ -1,41 +1,29 @@
 # Source authority, rights, and scope
 
-This repository is a derivative, work-in-progress Indonesian edition of
-OpenStax *Elementary Algebra 2e*. It is not an official OpenStax repository and
-does not imply endorsement by OpenStax or Rice University.
+This is an unofficial, incomplete Indonesian derivative of OpenStax
+*Elementary Algebra 2e*; no OpenStax or Rice University endorsement is implied.
 
 ## Frozen authority
 
-- Upstream repository: `https://github.com/openstax/osbooks-prealgebra-bundle`
+- Repository: `https://github.com/openstax/osbooks-prealgebra-bundle`
 - Commit: `38cae454e644abf9f0a623e876994553881597c9`
 - Tree: `7907e4c81d43de1c3b6da173f0eb273c01dc5b55`
 - Collection: `collections/elementary-algebra-2e.collection.xml`
-- Collection identifier: `col31130`
-- Collection UUID: `55931856-c627-418b-a56f-1dd0007683a8`
-- Collection SHA-256: `5fdc03ab9e6ee7327be72f7e0a17c4d884e65f4a8081a0b2a06dbdb1392bda72`
-- Ordered closure: 82 unique CNXML module references
-- Official English PDF witness: 56,728,705 bytes, 1,290 pages, SHA-256
-  `a250861ff5e945a63a0b90f8c8790a6ed73d9eb04675854824a3880073d0759e`
+- Collection ID: `col31130`; 82 ordered unique modules
 
-Only `col31130` and assets directly referenced by its modules are in this
-repository's scope. Prealgebra 2e, Intermediate Algebra 2e, and Precalculus 2e
-are expressly outside it.
+Only `col31130` and directly referenced assets are in scope. Prealgebra 2e,
+Intermediate Algebra 2e, and Precalculus 2e are outside this repository.
 
-## Current edition boundary
+## Current boundary
 
-The public reader remains `EA2-B0015`: 15 admitted modules out of 82 and a
-447-page partial reader. The locale-neutral backend/source package advances to
-`EA2-B0019`: 19 admitted modules out of 82, with 63 modules remaining. This is
-an incomplete-book checkpoint; reader advancement is not claimed.
+Reader: `EA2-B0015`, 15/82 modules, 447 pages.
+Backend/source: `EA2-B0021`, 21/82 modules,
+61 queued. This is an incomplete-book checkpoint.
 
-- Version DOI: recorded in the matching Zenodo publication receipt and release manifest.
-- Durable concept lineage: [`10.5281/zenodo.22059767`](https://doi.org/10.5281/zenodo.22059767)
+Durable concept: [`10.5281/zenodo.22059767`](https://doi.org/10.5281/zenodo.22059767).
 
 ## Rights
 
-The upstream repository, book metadata, and official reader identify the work
-as CC BY-NC-SA 4.0. Translation is adapted material. Attribution, change
-indication, noncommercial use, ShareAlike, and non-endorsement requirements
-apply. Some artwork carries component-specific credits or permission limits;
-the book-level license must not be used to erase them. See `LICENSE` for the
-complete CC BY-NC-SA 4.0 legal code.
+The work is CC BY-NC-SA 4.0 subject to component-specific credits, permission
+limits, attribution, change indication, noncommercial use, ShareAlike, and
+trademark exclusions. See `LICENSE` for the legal code.

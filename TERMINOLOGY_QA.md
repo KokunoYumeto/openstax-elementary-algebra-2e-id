@@ -1,23 +1,11 @@
 # Indonesian terminology QA
 
-Before extending this checkpoint, the translation terminology was compared
-against two directly inspected Indonesian mathematical sources:
+Terminology was checked against directly inspected Indonesian mathematical
+TeX and learner-facing school-algebra sources. The evidence supports `linear`,
+`variabel`, `ruas`, `penyelesaian`, `koefisien`, `konstanta`, `suku`, and
+`bentuk aljabar`, while keeping `persamaan` distinct.
 
-1. Natanael Karjanto, “A theoretical study on a two-dimensional flap-type
-   wavemaker,” [arXiv:2001.05854v1](https://arxiv.org/abs/2001.05854), whose
-   source package contains the original Indonesian ITB Mathematics thesis as
-   TeX (CC BY-SA 4.0).
-2. Dicky Susanto et al., *Matematika untuk SMP/MTs Kelas VII*, Pusat
-   Perbukuan / Kemendikbudristek, first printing 2022, ISBN
-   `978-602-244-883-9`, used as the learner-facing school-algebra control.
-
-The evidence confirms `linear`, `variabel`, `ruas`, `penyelesaian`,
-`koefisien`, `konstanta`, and `suku`. It supports the normalization `bentuk
-aljabar` for “algebraic expression” while retaining generic `ekspresi
-matematika` and keeping `persamaan` distinct.
-
-The m82469 backend admission (EA2-B0019) also carries its independent
-mathematics/accessibility review and explicitly preserves the seven disclosed
-derivative assembly debts. This note records terminology evidence only. No
-source wording was copied into the translation, and all source-author and
-contributor credits remain with their respective works.
+The backend admission through `EA2-B0021` carries its bounded QA,
+correction, and independent-review receipts. This note records terminology
+evidence only; no source wording was copied. Source-author and contributor
+credits remain with their works.

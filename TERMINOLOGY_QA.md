@@ -5,8 +5,9 @@ TeX and learner-facing school-algebra sources. The evidence supports `linear`,
 `variabel`, `ruas`, `penyelesaian`, `koefisien`, `konstanta`, `suku`, and
 `bentuk aljabar`, while keeping `persamaan` distinct.
 
-The backend admission through `EA2-B0022` carries its bounded QA,
-correction, and independent-review receipts, including the exact m82471 zero
-proposal state and the m82472 seven-term/twelve-correction admission. This note
-records terminology evidence only; no source wording was copied. Source-author
-and contributor credits remain with their works.
+The backend admission through `EA2-B0023` carries its bounded QA,
+correction, and independent-review receipts. The m82473 admission adds eight
+new terminology rows, revalidates four existing terms without duplicating
+them, and records 21 precise derivative corrections. This note records
+terminology evidence only; no source wording was copied. Source-author and
+contributor credits remain with their works.

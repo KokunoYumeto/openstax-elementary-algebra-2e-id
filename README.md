@@ -2,13 +2,13 @@
 
 This repository preserves an incomplete work-in-progress checkpoint. The
 reader remains `EA2-B0015` (15/82 modules; 447 A4
-pages). The locale-neutral backend is `EA2-B0021`
-(21/82 modules; 61 queued). This does not
+pages). The locale-neutral backend is `EA2-B0022`
+(22/82 modules; 60 queued). This does not
 claim a complete book or reader advancement.
 
 The exact reader-first inventory is in Zenodo concept
 [10.5281/zenodo.22059767](https://doi.org/10.5281/zenodo.22059767), version
-[10.5281/zenodo.22076455](https://doi.org/10.5281/zenodo.22076455). All GitHub release assets
+[10.5281/zenodo.22088375](https://doi.org/10.5281/zenodo.22088375). All GitHub release assets
 must be byte-identical to that public Zenodo version.
 
 Source authority is OpenStax collection `col31130` at commit

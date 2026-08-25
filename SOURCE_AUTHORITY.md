@@ -17,8 +17,8 @@ Intermediate Algebra 2e, and Precalculus 2e are outside this repository.
 ## Current boundary
 
 Reader: `EA2-B0015`, 15/82 modules, 447 pages.
-Backend/source: `EA2-B0021`, 21/82 modules,
-61 queued. This is an incomplete-book checkpoint.
+Backend/source: `EA2-B0022`, 22/82 modules,
+60 queued. This is an incomplete-book checkpoint.
 
 Durable concept: [`10.5281/zenodo.22059767`](https://doi.org/10.5281/zenodo.22059767).
 

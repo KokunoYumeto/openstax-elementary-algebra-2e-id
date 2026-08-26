@@ -4,7 +4,7 @@
   "book": "OpenStax Elementary Algebra 2e",
   "language": "id-ID",
   "collection_id": "col31130",
-  "reader_boundary": "EA2-B0023",
+  "reader_boundary": "EA2-B0023R1",
   "backend_boundary": "EA2-B0023",
   "reader_admitted_module_count": 23,
   "reader_remaining_module_count": 59,
@@ -15,6 +15,6 @@
   "status": "work_in_progress_incomplete_book",
   "license": "CC BY-NC-SA 4.0, subject to component-specific credits and restrictions",
   "model_provenance": "OpenAI Codex gpt-5.6-sol, Ultra, acting at the user's instruction",
-  "zenodo_version_doi": "10.5281/zenodo.22098297",
+  "zenodo_version_doi": "10.5281/zenodo.22103774",
   "zenodo_concept_doi": "10.5281/zenodo.22059767"
 }

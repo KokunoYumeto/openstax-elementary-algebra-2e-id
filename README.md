@@ -1,13 +1,20 @@
 # OpenStax Elementary Algebra 2e — Bahasa Indonesia
 
-This repository preserves an incomplete work-in-progress checkpoint. The
-reader and locale-neutral backend both cover `EA2-B0023R1`
-(23/82 modules; 59 remain). The reflowed A4
-reader has 649 pages. This is not a complete-book release.
+This repository preserves an incomplete, source-ordered sparse checkpoint. The
+reader and locale-neutral backend both cover `EA2-S0031`
+(31/82 modules; 51 remain) in
+984 reflowed A4 pages. This is not a contiguous 31-module prefix
+or a complete-book release.
+
+The admitted prefix ends at `m82473`. Sections represented by
+m82475-m82478 are explicitly omitted; the complete later Graphs chapter
+(`m82479,m82480,m82481,m82482,m82483,m82485,m82486,m82488`) is included.
+The reader marks this gap in its table of contents and at the Chapter 4
+transition.
 
 The exact reader-first inventory is in Zenodo concept
 [10.5281/zenodo.22059767](https://doi.org/10.5281/zenodo.22059767), version
-[10.5281/zenodo.22103774](https://doi.org/10.5281/zenodo.22103774). All GitHub release assets
+[10.5281/zenodo.22105421](https://doi.org/10.5281/zenodo.22105421). All GitHub release assets
 must be byte-identical to that public Zenodo version.
 
 Source authority is OpenStax collection `col31130` at commit

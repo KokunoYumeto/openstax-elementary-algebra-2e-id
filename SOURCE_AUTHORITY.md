@@ -16,9 +16,10 @@ Intermediate Algebra 2e, and Precalculus 2e are outside this repository.
 
 ## Current boundary
 
-Reader/backend: `EA2-B0023`, 23/82 modules,
-59 remaining, 649 reflowed A4 pages. This is an
-incomplete-book checkpoint.
+Reader/backend: `EA2-S0031`, 31/82 source-ordered modules,
+51 remaining, 984 reflowed A4 pages. This is a
+sparse incomplete-book checkpoint: the prefix ends at `m82473`, the declared
+gap is m82475-m82478, and the later Graphs chapter is included.
 
 Durable concept: [`10.5281/zenodo.22059767`](https://doi.org/10.5281/zenodo.22059767).
 

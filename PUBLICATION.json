@@ -1,7 +1,8 @@
 {
   "schema": "ea2.github-publication-root.v2",
   "repository": "KokunoYumeto/openstax-elementary-algebra-2e-id",
-  "version": "1.0.1",
+  "version": "1.0.2",
+  "predecessor_version": "1.0.1",
   "boundary": "EA2-C0082",
   "status": "complete_book",
   "coverage_mode": "complete",

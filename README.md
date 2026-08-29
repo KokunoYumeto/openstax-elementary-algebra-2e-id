@@ -1,7 +1,7 @@
-# OpenStax Elementary Algebra 2e — Bahasa Indonesia
+# Aljabar Dasar 2e — Bahasa Indonesia
 
 This is the complete reader-first release: all 82 of 82 source-ordered modules,
-the centered/reflowable 2,154-page A4 PDF reader, and the locale-neutral backend.
+the centered/reflowable 2,158-page A4 PDF reader, and the locale-neutral backend.
 The source authority is OpenStax collection `col31130` at commit
 `38cae454e644abf9f0a623e876994553881597c9`.
 

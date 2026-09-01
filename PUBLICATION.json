@@ -1,18 +1,102 @@
 {
   "schema": "ea2.github-publication-root.v2",
   "repository": "KokunoYumeto/openstax-elementary-algebra-2e-id",
-  "version": "1.0.2",
-  "predecessor_version": "1.0.1",
+  "version": "1.0.3",
+  "release_date": "2026-09-01",
+  "predecessor_version": "1.0.2",
+  "predecessor_github_release_id": 379135099,
+  "predecessor_zenodo_record_id": "22167286",
   "boundary": "EA2-C0082",
+  "reader_boundary": "EA2-C0082-v1.0.3-final",
   "status": "complete_book",
   "coverage_mode": "complete",
   "reader_admitted_module_count": 82,
   "backend_admitted_module_count": 82,
   "total_module_count": 82,
-  "reader_pages": 2158,
+  "reader_pages": 1627,
+  "backend_records": 561994,
   "source_commit": "38cae454e644abf9f0a623e876994553881597c9",
   "license": "CC BY-NC-SA 4.0 (subject to component-specific credits and restrictions)",
   "model_provenance": "OpenAI Codex gpt-5.6-sol, Ultra.",
   "zenodo_concept_doi": "10.5281/zenodo.22059767",
-  "figshare_policy": "CC0 metadata/link only when exact underlying license cannot be hosted"
+  "figshare_policy": "CC0 metadata/link only when exact underlying license cannot be hosted",
+  "terminology_revision_set": {
+    "candidate_edit_record_count": 31,
+    "ledger": {
+      "bytes": 772,
+      "filename": "TERMINOLOGY_REVISION_LEDGER.json",
+      "path": "qa/terminology/native-a10-20260831/TERMINOLOGY_REVISION_LEDGER.json",
+      "sha256": "ce1b85bdbbc081b936a196fea8d419c406a2479cb779cc29947f375bc796a1c5"
+    },
+    "module_count": 11,
+    "module_ids": [
+      "m82480",
+      "m82481",
+      "m82482",
+      "m82486",
+      "m82488",
+      "m82530",
+      "m82538",
+      "m82555",
+      "m82557",
+      "m82559",
+      "m82564"
+    ],
+    "revision_count": 2,
+    "revision_ids": [
+      "linear-terminology-reconciliation-20260831-six-modules",
+      "native-a10-owner-admission-20260831-five-modules"
+    ],
+    "revisions": [
+      {
+        "admission": {
+          "bytes": 8203,
+          "filename": "LINEAR_TERMINOLOGY_ADMISSION_RECEIPT_20260831.json",
+          "path": "qa/terminology/LINEAR_TERMINOLOGY_ADMISSION_RECEIPT_20260831.json",
+          "sha256": "a71cf67f592b16a77fe514c1bccb813c377f481dcc9aeae829bee0888bf9006c"
+        },
+        "candidate_edit_record_count": 0,
+        "module_count": 6,
+        "module_ids": [
+          "m82530",
+          "m82538",
+          "m82555",
+          "m82557",
+          "m82559",
+          "m82564"
+        ],
+        "registry_revision_id": "native-indonesian-terminology-qa-linear-spelling-20260831-six-modules",
+        "revision_id": "linear-terminology-reconciliation-20260831-six-modules",
+        "semantic_substitution_count": 15
+      },
+      {
+        "admission": {
+          "bytes": 6668,
+          "filename": "ADMISSION_RECEIPT.json",
+          "path": "qa/terminology/native-a10-20260831/ADMISSION_RECEIPT.json",
+          "sha256": "793dd64a2f292bf7746c141d5bb1964ba0c0aa51cc07020127290c03684aa486"
+        },
+        "candidate": {
+          "bytes": 56766,
+          "filename": "OWNER_REVIEW_CANDIDATES.json",
+          "path": "qa/terminology/native-a10-20260831/OWNER_REVIEW_CANDIDATES.json",
+          "sha256": "a61fc8cda4f78b23bf9051329e0507d63b25168e36c42a70f2772eaf56e3fe96"
+        },
+        "candidate_edit_record_count": 31,
+        "module_count": 5,
+        "module_ids": [
+          "m82480",
+          "m82481",
+          "m82482",
+          "m82486",
+          "m82488"
+        ],
+        "registry_revision_id": "native-a10-owner-admission-20260831-five-modules",
+        "revision_id": "native-a10-owner-admission-20260831-five-modules",
+        "semantic_substitution_count": 34
+      }
+    ],
+    "semantic_substitution_count": 49,
+    "status": "pass"
+  }
 }
